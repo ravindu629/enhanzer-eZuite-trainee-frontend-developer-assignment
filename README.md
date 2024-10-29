@@ -7,7 +7,7 @@
 ### Install Dependencies (frontend)
 
 ```
-cd frontend
+cd ezuite-app
 npm install
 ```
 
